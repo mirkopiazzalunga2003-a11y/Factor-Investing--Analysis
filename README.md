@@ -1,8 +1,7 @@
 # Factor Investing Report  
-**Constructing Portfolios through Factor-Based ETFs**
 
 ## Overview
-This repository contains the Python code and empirical analysis for the project *“Constructing Portfolios through Factor-Based ETFs.”*  
+This repository contains the Python code and empirical analysis for the project *“Constructing Portfolios through Factor-Based ETFs”*  
 The study evaluates **MSCI USA factor indices** aligned with the **Fama–French five-factor model** (Market, SMB, HML, RMW, CMA), using the **MSCI USA INDEX as benchmark** over **1999–2024**.
 
 ---
